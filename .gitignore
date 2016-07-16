@@ -1,0 +1,12 @@
+.dep/
+misc/
+
+Last Loaded atmega32-bicycle-speedometer.DBK
+LCD1.bmp
+
+lcd.eep
+lcd.lss
+lcd.lst
+lcd.map
+lcd.o
+lcd.sym
