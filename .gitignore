@@ -2,6 +2,8 @@
 misc/
 
 Last Loaded atmega32-bicycle-speedometer.DBK
+atmega32-bicycle-speedometer.PWI
+atmega32-bicycle-speedometer.SDF
 LCD1.bmp
 
 lcd.eep

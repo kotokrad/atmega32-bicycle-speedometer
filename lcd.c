@@ -63,8 +63,10 @@ int main(void)
   {
     adc_check();
     // debug2(battery_voltage);
-    drawBatteryCharge();
-    _delay_ms(10);
+    // drawBatteryCharge();
+    // _delay_ms(10);
+    debugText("HELLO WORLD");
+    _delay_ms(1000);
 
 
 

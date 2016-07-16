@@ -47,5 +47,5 @@ void debugX(int var) {
 }
 
 void debugText(char text[]) {
-  nlcd_Text(text,124,10,BLACK,WHITE);
+  nlcd_Text(text,94,10,BLACK,WHITE);
 }
